@@ -2,7 +2,6 @@
 
 FROM dcokerid456/jmbase
 
-
 # Ports to be exposed from the container for JMeter SlavesServer
 EXPOSE 1099 50000
 
